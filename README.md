@@ -1,3 +1,3 @@
 # test-repo
 
-A repo for testing and hacking with.
+A repo for testing and hacking.
